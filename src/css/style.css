@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  width: 100%;
+}
+
+header nav {
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+#logo_header {
+}
+
+#logo_header img {
+  width: 10%;
+}
