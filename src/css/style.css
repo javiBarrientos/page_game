@@ -1,7 +1,15 @@
+/*
+Css para todo el html
+*/
+
 * {
   box-sizing: border-box;
   margin: 0 auto;
 }
+
+/*
+Css para la cabezera del html
+*/
 
 header {
   align-items: center;
@@ -28,4 +36,32 @@ nav li {
 #boton_login_header {
   color: black;
   text-decoration: none;
+}
+
+/*
+Css para el cuerpo del html
+*/
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#titulo_cuerpo {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#descripcion_juego_cuerpo {
+  font-size: 0.9em;
+  margin: 20px;
+}
+
+#imagenes_link_cuerpo {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#imagenes_link_cuerpo img {
+  justify-content: center;
 }
