@@ -1,9 +1,19 @@
 /*
+Fuente
+*/
+
+@font-face {
+  font-family: upheaval;
+  src: url("../assets/fonts/upheaval/upheavtt.ttf");
+}
+
+/*
 Css para todo el html
 */
 
 * {
   box-sizing: border-box;
+  font-family: upheaval;
   margin: 0 auto;
 }
 
@@ -13,7 +23,7 @@ Css para la cabezera del html
 
 header {
   align-items: center;
-  background-color: brown;
+  background-color: #a52a2a;
   display: flex;
   width: 100%;
 }
