@@ -65,3 +65,18 @@ main {
 #imagenes_link_cuerpo img {
   justify-content: center;
 }
+
+/*
+Css para el footer del html
+*/
+
+footer {
+  justify-content: flex-start;
+  background-color: #a52a2a;
+  display: flex;
+  flex-direction: column;
+}
+
+footer p {
+  font-size: 0.6em;
+}
