@@ -14,7 +14,14 @@ Css para todo el html
 * {
   box-sizing: border-box;
   font-family: upheaval;
-  margin: 0 auto;
+}
+
+/*
+Css para el body
+*/
+body {
+  background-image: url("../assets/imagen_fondo.jpg");
+  background-position: center;
 }
 
 /*
@@ -24,6 +31,7 @@ Css para la cabezera del html
 header {
   align-items: center;
   background-color: #a52a2a;
+  border-radius: 15px;
   display: flex;
   width: 100%;
 }
@@ -31,6 +39,7 @@ header {
 nav ul {
   padding: 2px;
   list-style-type: none;
+  margin: 10px;
 }
 
 nav li {
@@ -55,6 +64,7 @@ Css para el cuerpo del html
 main {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 #titulo_cuerpo {
@@ -72,7 +82,7 @@ main {
   flex-wrap: wrap;
 }
 
-#imagenes_link_cuerpo img {
+#imagenes_link_cuerpo {
   justify-content: center;
 }
 
