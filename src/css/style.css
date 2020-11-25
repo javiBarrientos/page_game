@@ -33,14 +33,14 @@ header {
   background-color: #a52a2a;
   border-radius: 15px;
   display: flex;
-  width: 100%;
   margin-bottom: 10px;
+  width: 100%;
 }
 
 nav ul {
-  padding: 2px;
   list-style-type: none;
   margin: 10px;
+  padding: 2px;
 }
 
 nav li {
@@ -63,12 +63,12 @@ Css para el cuerpo del html
 */
 
 main {
+  background-color: #a8a8a8;
+  border: 10px #444444 solid;
+  border-radius: 10px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  background-color: #a8a8a8;
-  border-radius: 10px;
-  border: 10px #444444 solid;
 }
 
 #titulo_cuerpo {
@@ -99,19 +99,19 @@ Css para el footer del html
 */
 
 footer {
-  justify-content: flex-start;
   background-color: #a52a2a;
   border-radius: 15px;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
+  justify-content: flex-start;
   margin-top: 10px;
 }
 
 #header_footer {
+  align-items: center;
   display: flex;
   justify-content: center;
-  align-items: center;
   margin-bottom: -10px;
   margin-top: -10px;
 }
@@ -129,9 +129,9 @@ footer {
 }
 
 #rrss_footer img {
+  border-radius: 200px;
   height: 40px;
   width: 40px;
-  border-radius: 200px;
 }
 
 footer p {
