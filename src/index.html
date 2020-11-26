@@ -5,21 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./css/style.css" />
     <link rel="shortcut icon" href="./assets/logo.ico" type="image/x-icon" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
     <title>guppyhelper</title>
   </head>
   <body>
     <header>
-      <nav>
-        <ul>
-          <li>Wiki</li>
-          <li>Forum</li>
-          <li>Support</li>
-          <li>Login</li>
-        </ul>
-      </nav>
       <div id="logo_header">
         <img src="./assets/logo_header.png" alt="logo_isaac" />
       </div>
+      <nav id="links_navbar">
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+        <a href="#">News</a>
+        <a href="#">Login</a>
+      </nav>
+      <a href="javascript:void(0);" class="icon" onclick="navBarFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
     </header>
 
     <main>
@@ -86,5 +91,6 @@
         </a>
       </div>
     </footer>
+    <script src="./js/hamburguer.js"></script>
   </body>
 </html>
