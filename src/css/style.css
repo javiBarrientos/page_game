@@ -32,9 +32,31 @@ header {
   align-items: center;
   background-color: #a52a2a;
   border-radius: 15px;
-  display: flex;
+  position: relative;
   margin-bottom: 10px;
   width: 100%;
+}
+
+#links_navbar {
+  display: none;
+}
+
+header a {
+  color: #a8a8a8;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+header a.icon {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+#links_navbar a:hover {
+  color: black;
 }
 
 header #links_navbar {
@@ -71,6 +93,10 @@ main {
   text-align: center;
 }
 
+#video_trailer_cuerpo iframe {
+  width: 100%;
+}
+
 #descripcion_juego_cuerpo {
   font-size: 0.9em;
   margin: 20px;
@@ -80,10 +106,12 @@ main {
 #imagenes_link_cuerpo {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  padding-bottom: 10px;
 }
 
-#imagenes_link_cuerpo {
-  justify-content: center;
+#imagenes_link_cuerpo img {
+  width: 100%;
 }
 
 /*
