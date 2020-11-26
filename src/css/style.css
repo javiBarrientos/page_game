@@ -122,7 +122,6 @@ footer {
   background-color: #a52a2a;
   border-radius: 15px;
   display: flex;
-  flex-direction: column;
   flex-wrap: wrap;
   justify-content: flex-start;
   margin-top: 10px;
@@ -132,8 +131,8 @@ footer {
   align-items: center;
   display: flex;
   justify-content: center;
-  margin-bottom: -10px;
-  margin-top: -10px;
+  width: 100%;
+  margin-top: -20px;
 }
 
 #header_footer img {
@@ -146,13 +145,33 @@ footer {
 }
 
 #rrss_footer {
-  width: 10%;
+  display: flex;
+  justify-content: center;
+  width: 30%;
 }
 
-#rrss_footer img {
-  border-radius: 200px;
-  height: 40px;
-  width: 40px;
+.fa {
+  padding: 12px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px 5px 5px;
+  border-radius: 8px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
 }
 
 footer p {
