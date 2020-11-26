@@ -146,6 +146,7 @@ footer {
 
 #rrss_footer {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   width: 30%;
 }
