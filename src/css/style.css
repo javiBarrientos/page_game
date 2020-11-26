@@ -37,16 +37,8 @@ header {
   width: 100%;
 }
 
-nav ul {
-  list-style-type: none;
-  margin: 10px;
-  padding: 2px;
-}
-
-nav li {
-  display: inline;
-  font-size: 0.7em;
-  width: 10px;
+header #links_navbar {
+  display: none;
 }
 
 #logo_header img {
@@ -117,7 +109,8 @@ footer {
 }
 
 #header_footer img {
-  margin-right: 10px;
+  margin-right: -20px;
+  height: 90px;
 }
 
 #copyright_footer {
