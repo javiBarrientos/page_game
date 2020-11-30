@@ -36,6 +36,8 @@ Css para el body
 body {
   background-image: url("../assets/imagen_fondo.jpg");
   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /*
@@ -101,13 +103,16 @@ main {
 
 #titulo_cuerpo {
   text-align: center;
+  width: 100%;
 }
 
 #video_trailer_cuerpo {
   text-align: center;
+  width: 80%;
 }
 
 #video_trailer_cuerpo iframe {
+  height: 200px;
   width: 100%;
 }
 
