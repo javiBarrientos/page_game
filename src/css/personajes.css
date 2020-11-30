@@ -1,0 +1,54 @@
+/*
+Fuente
+*/
+
+@font-face {
+  font-family: upheaval;
+  src: url("../assets/fonts/upheaval/upheavtt.ttf");
+}
+
+/*
+Css para todo el html
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: upheaval;
+}
+
+p,
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2em;
+}
+
+/*
+Css para el body
+*/
+
+body {
+  background-image: url("../assets/imagen_fondo.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*
+Css para el cuerpo del html
+*/
+
+#primer_personaje {
+  background-color: #a8a8a89f;
+  border: 10px #444444 solid;
+  border-radius: 10px;
+  text-align: center;
+  width: 100%;
+}
