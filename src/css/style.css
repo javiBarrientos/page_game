@@ -53,26 +53,25 @@ header {
   width: 100%;
 }
 
-#links_navbar {
-  display: none;
-}
-
 header a {
   color: #a8a8a8;
-  padding: 14px 16px;
-  text-decoration: none;
   font-size: 17px;
-  display: block;
+  padding: 10px 10px;
+  text-decoration: none;
 }
 
-header a.icon {
-  position: absolute;
-  right: 10px;
-  top: 10px;
+#links_navbar {
+  margin-top: 10px;
+  text-align: center;
 }
 
 #links_navbar a:hover {
   color: black;
+}
+
+#icono_header {
+  display: flex;
+  justify-content: center;
 }
 
 header #links_navbar {
