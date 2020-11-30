@@ -49,6 +49,15 @@ Css para el cuerpo del html
   background-color: #a8a8a89f;
   border: 10px #444444 solid;
   border-radius: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+#segundo_personaje {
+  background-color: #a8a8a89f;
+  border: 10px #444444 solid;
+  border-radius: 10px;
   text-align: center;
   width: 100%;
 }
