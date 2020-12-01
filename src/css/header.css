@@ -1,0 +1,46 @@
+/*
+Css para la cabezera del html
+*/
+
+header {
+  align-items: center;
+  background-color: #a52a2a;
+  border-radius: 15px;
+  position: relative;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+header a {
+  color: #a8a8a8;
+  font-size: 17px;
+  padding: 10px 10px;
+  text-decoration: none;
+}
+
+#links_navbar {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#links_navbar a:hover {
+  color: black;
+}
+
+#icono_header {
+  display: flex;
+  justify-content: center;
+}
+
+header #links_navbar {
+  display: none;
+}
+
+#logo_header img {
+  width: 100%;
+}
+
+#boton_login_header {
+  color: black;
+  text-decoration: none;
+}
