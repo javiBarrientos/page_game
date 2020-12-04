@@ -59,6 +59,12 @@ main {
   width: 100%;
 }
 
+#container_cuerpo {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 #video_trailer_cuerpo {
   width: 80%;
 }
@@ -66,12 +72,18 @@ main {
 #video_trailer_cuerpo iframe {
   height: 200px;
   width: 100%;
+  margin-left: 10px;
+  margin-bottom: 10px;
 }
 
 #descripcion_juego_cuerpo {
   font-size: 0.9em;
   margin: 20px;
   text-align: center;
+}
+
+#descripcion_juego_cuerpo h4 {
+  margin: 0;
 }
 
 #imagenes_link_cuerpo {
@@ -83,4 +95,61 @@ main {
 #imagenes_link_cuerpo img {
   padding: 5px;
   width: 100%;
+}
+
+/* Media query body */
+@media (min-width: 1000px) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: upheaval;
+    font-size: 2em;
+  }
+
+  #container_cuerpo {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+  }
+
+  #video_trailer_cuerpo {
+    width: 40%;
+  }
+
+  #video_trailer_cuerpo iframe {
+    height: 250px;
+  }
+
+  #descripcion_juego_cuerpo {
+    width: 60%;
+    font-size: 0.9em;
+    margin: 20px;
+    text-align: center;
+  }
+}
+
+@media (min-width: 1600px) {
+  #container_cuerpo {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+  }
+
+  #video_trailer_cuerpo {
+    width: 30%;
+  }
+
+  #video_trailer_cuerpo iframe {
+    height: 250px;
+  }
+
+  #descripcion_juego_cuerpo {
+    width: 60%;
+    font-size: 0.9em;
+    margin: 20px;
+    text-align: center;
+  }
 }
