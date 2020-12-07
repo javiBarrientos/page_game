@@ -36,9 +36,10 @@ Css para el body
 
 body {
   background-image: url("../assets/imagen_fondo.jpg");
-  background-position: center;
   background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 /*
