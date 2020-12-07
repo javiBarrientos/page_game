@@ -1,0 +1,52 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Hisoka Morow",
+      "motto": "Right now, I'm letting you live. And I'll continue to keep you alive... until you've grown enough to become worth killing.",
+      "img": "https://static.wikia.nocookie.net/characterprofile/images/b/b2/Hisoka1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Killua Zoldyck",
+      "motto": "Electricity doesn't hurt me. When I said it doesn't hurt me, it means I can bare it. None the less, I feel the pain. That's why I'm a bit annoyed...",
+      "img": "https://static.wikia.nocookie.net/characterprofile/images/8/83/BoFIV_Ryu_Artwork.webp5"
+    },
+    {
+      "id": 3,
+      "name": "Kurapika",
+      "motto": "I do not fear death. I fear only that my rage will fade over time.",
+      "img": "https://static.wikia.nocookie.net/characterprofile/images/1/13/CuddlesProfilePictureImageZ.png"
+    },
+    {
+      "id": 4,
+      "name": "Shoto Todoroki",
+      "motto": "If you wanna stop this, then stand up! Because I've just got one thing to say to you! Never forget who you want to become!",
+      "img": "https://static.wikia.nocookie.net/characterprofile/images/a/ac/Shoto_Todoroki%2C_the_Son_of_Endeavor.png"
+    },
+    {
+      "id": 5,
+      "name": "Saitama",
+      "motto": "100 push-ups, 100 sit-ups, 100 squats, and a 10km run EVERY SINGLE DAY!!!",
+      "img": "https://static.wikia.nocookie.net/characterprofile/images/2/27/Saitama.png"
+    },
+    {
+      "id": 6,
+      "name": "Eijiro Kirishima",
+      "motto": "When I heard that they were after my buddy...I couldn't do anything!! I didn't do anything!! If I don't act now...forget being a hero, I'm not even a man!",
+      "img": "https://static.wikia.nocookie.net/characterprofile/images/7/7b/Eijiro_Kirishima%2C_the_Vigor_Hero.png"
+    },
+    {
+      "id": 7,
+      "name": "Shouta Aizawa",
+      "motto": "I'm sorry to tell you... that for the next three years... U.A. will run you through the wringer. That's \"Plus Ultra\". Use your strength to overcome it all. So bring it",
+      "img": "https://static.wikia.nocookie.net/characterprofile/images/a/ac/Aizawa.png"
+    },
+    {
+      "id": 8,
+      "name": "Izuku Midoriya",
+      "motto": "I'm not gonna be your worthless punching bag Deku forever... Kacchan. I'm... I'm the Deku who always does his best!",
+      "img": "https://static.wikia.nocookie.net/characterprofile/images/9/98/Izuku_midoriya_hero_costume_gamma_action_pose.png"
+    }
+  ]
+  }
