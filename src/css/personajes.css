@@ -7,6 +7,11 @@ Fuente
   src: url("../assets/fonts/upheaval/upheavtt.ttf");
 }
 
+@font-face {
+  font-family: dokdo;
+  src: url("../assets/fonts/dokdo/EastSeaDokdo-Regular.ttf");
+}
+
 /*
 Css para todo el html
 */
@@ -26,8 +31,8 @@ h6 {
 
 p,
 a {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 1.2em;
+  font-family: dokdo;
+  font-size: 2em;
 }
 
 /*
