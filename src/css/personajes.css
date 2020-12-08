@@ -36,16 +36,17 @@ Css para el body
 
 body {
   background-image: url("../assets/imagen_fondo.jpg");
-  background-position: center;
   background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 /*
 Css para el cuerpo del html
 */
 
-#primer_personaje {
+.character {
   background-color: #a8a8a89f;
   border: 10px #444444 solid;
   border-radius: 10px;
@@ -54,10 +55,27 @@ Css para el cuerpo del html
   width: 100%;
 }
 
-#segundo_personaje {
-  background-color: #a8a8a89f;
-  border: 10px #444444 solid;
-  border-radius: 10px;
-  text-align: center;
-  width: 100%;
+@media (min-width: 800px) {
+  .character {
+    display: flex;
+    flex-wrap: wrap;
+    height: 30%;
+  }
+
+  .character h2 {
+    width: 100%;
+  }
+
+  .character p {
+    width: 70%;
+  }
+
+  .character img {
+    width: 30%;
+    height: 100%;
+  }
+
+  .character img {
+    padding: 10px;
+  }
 }
