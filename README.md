@@ -10,6 +10,12 @@ La pagina web mostrara cada una de las *fichas* de cada personaje con una descri
 
 ![stats tboi](https://i.imgur.com/RCls3fY.png)
 
+## Fuentes
+![fuente](./assets/font.png)
+
+## Patela de colores
+![color](./assets/color.png)
+
 ### Webgrafia
 - https://platinumgod.co.uk/
 - https://bindingofisaac.fandom.com/es/wiki/Wiki_Binding_of_Isaac
