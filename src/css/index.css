@@ -53,7 +53,7 @@ Css para el cuerpo del html
 
 main {
   background-color: #a8a8a89f;
-  border: 10px #444444 solid;
+  border: 10px #444 solid;
   border-radius: 10px;
   display: flex;
   flex-wrap: wrap;

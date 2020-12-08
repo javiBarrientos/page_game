@@ -53,7 +53,7 @@ Css para el cuerpo del html
 
 .character {
   background-color: #a8a8a89f;
-  border: 10px #444444 solid;
+  border: 10px #444 solid;
   border-radius: 10px;
   margin-bottom: 10px;
   text-align: center;
@@ -76,9 +76,6 @@ Css para el cuerpo del html
 
   .character img {
     width: 30%;
-  }
-
-  .character img {
     padding: 10px;
   }
 }
