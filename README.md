@@ -11,10 +11,10 @@ La pagina web mostrara cada una de las *fichas* de cada personaje con una descri
 ![stats tboi](https://i.imgur.com/RCls3fY.png)
 
 ## Fuentes
-![fuente](./assets/font.png)
+![fuente](src/assets/font.png)
 
 ## Patela de colores
-![color](./assets/color.png)
+![color](src/assets/color.png)
 
 ### Webgrafia
 - https://platinumgod.co.uk/
