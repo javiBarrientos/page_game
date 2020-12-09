@@ -20,6 +20,9 @@ La pagina web mostrara cada una de las *fichas* de cada personaje con una descri
 - https://platinumgod.co.uk/
 - https://bindingofisaac.fandom.com/es/wiki/Wiki_Binding_of_Isaac
 
+### Video amazing
+- https://youtu.be/qQfCb_RhQxI
+
 ---
 
 *Javi Barrientos Fernandez*
