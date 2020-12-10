@@ -20,12 +20,8 @@ Css para todo el html
   box-sizing: border-box;
 }
 
-h1,
 h2,
-h3,
-h4,
-h5,
-h6 {
+h4{
   font-family: upheaval;
 }
 
@@ -104,12 +100,8 @@ main {
 
 /* Media query body */
 @media (min-width: 1000px) {
-  h1,
   h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  h4{
     font-size: 2em;
   }
 
