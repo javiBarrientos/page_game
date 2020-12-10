@@ -3,25 +3,25 @@
     {
       "id": 1,
       "name": "Isaac",
-      "motto": "El nombre de Isaac y del juego son una referencia al libro de la biblia El Sacrificio de Isaac donde Dios le ordena a Abraham que sacrifique a su único hijo, Isaac, para probar su lealtad: Y dijo: Toma ahora tu hijo, tu único, Isaac, a quien amas, y vete a tierra de Moriah, y ofrécelo allí en holocausto sobre uno de los montes que yo te diré. (Génesis 22:2)",
+      "motto": "El nombre de Isaac y del juego son una referencia al libro de la biblia El Sacrificio de Isaac donde Dios le ordena a Abraham que sacrifique a su unico hijo, Isaac, para probar su lealtad: Y dijo: Toma ahora tu hijo, tu unico, Isaac, a quien amas, y vete a tierra de Moriah, y ofrecelo alli en holocausto sobre uno de los montes que yo te dire. (Genesis 22:2)",
       "img": "https://raw.githubusercontent.com/javiBarrientos/page_game/main/src/assets/personajes/isaac.png"
     },
     {
       "id": 2,
       "name": "Magdalene",
-      "motto": "Magdalene es una referencia a María Magdalena, una seguidora de Jesús que tuvo siete demonios que expulsar de su cuerpo, a los cuales hacen referencia los siete contenedores de vida necesarios para desbloquearla.",
+      "motto": "Magdalene es una referencia a Maria Magdalena, una seguidora de Jesus que tuvo siete demonios que expulsar de su cuerpo, a los cuales hacen referencia los siete contenedores de vida necesarios para desbloquearla.",
       "img": "https://raw.githubusercontent.com/javiBarrientos/page_game/main/src/assets/personajes/magdalene.png"
     },
     {
       "id": 3,
       "name": "Cain",
-      "motto": "Cain es una referencia a la historia bíblica de Cain y Abel, en la cual Cain comete el primer asesinato matando a su hermano Abel.",
+      "motto": "Cain es una referencia a la historia biblica de Cain y Abel, en la cual Cain comete el primer asesinato matando a su hermano Abel.",
       "img": "https://raw.githubusercontent.com/javiBarrientos/page_game/main/src/assets/personajes/cain.png"
     },
     {
       "id": 4,
       "name": "Judas",
-      "motto": "Judas es una referencia a Judas Iscariote, el décimo tercer apóstol de Jesús. Judas traicionó a Jesús con los romanos a cambio de 30 piezas de plata, las cuales son representadas por las tres monedas con las que Judas comienza. También, se cree que representan las tres fes abrahámicas, Judaísmo, Cristianismo e Islamismo.",
+      "motto": "Judas es una referencia a Judas Iscariote, el decimo tercer apóstol de Jesus. Judas traicionó a Jesus con los romanos a cambio de 30 piezas de plata, las cuales son representadas por las tres monedas con las que Judas comienza. Tambien, se cree que representan las tres fes abrahamicas, Judaismo, Cristianismo e Islamismo.",
       "img": "https://raw.githubusercontent.com/javiBarrientos/page_game/main/src/assets/personajes/judas.png"
     }
   ]
